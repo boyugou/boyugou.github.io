@@ -31,5 +31,5 @@ Teaching Assistant at ShanghaiTech University
   - Instructor: Prof. Hao Wang
   - About Linear and Nonlinear Optimization.
 - CS110&CS110P Computer Architecture I & Computer Architecture I Project, 2022 Spring
-  -  Instructor: Chundong Wang & Sören Schwertfeger
-  - Similar to Berkeley CS61c
+  -  Instructor: Prof. Chundong Wang & Prof. Sören Schwertfeger
+  - Similar to UC Berkeley CS61c
