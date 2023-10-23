@@ -11,7 +11,7 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 ## Research Interests
 
 I'm broadly interested in **Natural Language Processing**, **MultiModality** and **broad AI**. The recent points that drive my thoughts are:
-- **Large Language Models**(LLMs) and **LLMs-based Vision Language Models**(VLMs)
+- **Large Language Models**(LLMs) and **LLM-based Vision Language Models**(VLMs)
 - **AI Agents** and **Embodied AI**, especially **Multi-Agents Cooperation**
 
 The success of large language and visual language models has made it possible to model many scenarios that were previously challenging. Furthermore, through the collaboration of multiple agents, we no longer need humans to query GPT and complete operation. It's really promising of Autonomous AI through agents coupled with operational endpoints and actively receiving environmental feedback.
