@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first year M.S. student at The Ohio State University. I'm now working with OSUNLP Group, advised by [Prof. Yu Su](https://ysu1989.github.io/).  Before joining OSU, I obtained my bachelor’s degree from ShanghaiTech University in Shanghai, China.
+I am a first year M.S. student at The Ohio State University. I'm now working on AI Agents, advised by [Prof. Yu Su](https://ysu1989.github.io/).  Before joining OSU, I obtained my bachelor’s degree from ShanghaiTech University in Shanghai, China, where I was advised by Prof. Kewei Tu about Structure Prediction in NLP.
 
 **I'm  actively doing research now and seeking opportunities for a Ph.D degree.**
 
