@@ -26,7 +26,7 @@ Nevertheless, current Large Language Models, Vision Language Models and AI Agent
 ## Education
 
 - The Ohio State Univeristy, US
-  - M.S. in Computer Science and Engineering,
+  - M.S. in Computer Science and Engineering
   - 2023.08 - Present
 
 - ShanghaiTech University, China
