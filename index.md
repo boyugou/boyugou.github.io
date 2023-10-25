@@ -14,9 +14,9 @@ I'm broadly interested in **Natural Language Processing**, **MultiModality** and
 - **Large Language Models**(LLMs) and **LLM-based Vision Language Models**(VLMs)
 - **AI Agents** and **Embodied AI**, especially **Multi-Agents Cooperation**
 
-The success of large language and visual language models has made it possible to model many scenarios that were previously challenging. Furthermore, through the collaboration of multiple agents, we no longer need humans to query GPT and complete operation. It's really promising of Autonomous AI through agents coupled with operational endpoints and actively receiving environmental feedback.
+The success of large language and visual language models has made it possible to model many scenarios that were previously challenging. Furthermore, through the collaboration of multiple agents, we no longer need humans to query GPT and complete operations. It's really promising of Autonomous AI through agents coupled with operational endpoints and actively receiving environmental feedback.
 
-Nevertheless, current Large Language Models, Visual Language Models and AI Agents are still not perfect, both in terms of the models themselves and the pipelines. Therefore, there is still much work to explore.
+Nevertheless, current Large Language Models, Vision Language Models and AI Agents are still not perfect, both in terms of the models themselves, pipelines and details. Therefore, there is still much work to explore.
 
 ## News
 
