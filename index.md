@@ -35,9 +35,9 @@ Nevertheless, current Large Language Models, Vision Language Models and AI Agent
 
 ## Teaching
 
-Teaching Assistant at ShanghaiTech University 
+Teaching Assistant at ShanghaiTech University:
 
-- SI152 Numerical Optimization, 2022 Fall, 
+- SI152 Numerical Optimization, 2022 Fall
   - Instructor: [Prof. Hao Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wanghao/)
   - About Linear and Nonlinear Optimization.
 - CS110&CS110P Computer Architecture I & Computer Architecture I Project, 2022 Spring
