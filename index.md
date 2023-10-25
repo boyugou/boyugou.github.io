@@ -22,6 +22,15 @@ Nevertheless, current Large Language Models, Vision Language Models and AI Agent
 
 - **[Aug. 2023]** Joined OSU, and am honored to work in Prof. Yu Su's Group
 
+
+## Education
+
+M.S. in Computer Science and Engineering, The Ohio State Univeristy, US
+2023.08 - Present
+
+B.Eng of Computer Science and Technology, ShanghaiTech University, China
+2019.08-2023.06
+
 ## Teaching
 
 Teaching Assistant at ShanghaiTech University 
