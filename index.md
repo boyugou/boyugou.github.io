@@ -40,3 +40,4 @@ Teaching Assistant at ShanghaiTech University:
   -  Instructor: [Prof. Chundong Wang](https://scholar.google.com/citations?user=a-79PFIAAAAJ&hl=en) & [Prof. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de)
   - Similar to UC Berkeley CS61c.
 - CLPS1001 Intimacy Psychology, 2023 Spring
+  - Instructor: Dr. Yaqi Cai 
