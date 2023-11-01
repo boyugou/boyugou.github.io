@@ -12,7 +12,7 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 
 I'm broadly interested in **Natural Language Processing**, **MultiModality** and **broad AI**. The recent points that drive my thoughts are:
 - **Large Language Models**(LLMs) and **LLM-based Vision Language Models**(VLMs)
-- **AI Agents** and **Embodied AI**, especially **Multi-Agents Cooperation**
+- **AI Agents** and **Embodied AI**
 
 ## News
 
