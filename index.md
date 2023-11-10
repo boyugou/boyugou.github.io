@@ -6,7 +6,7 @@ layout: homepage
 
 I am a first year M.S. student at The Ohio State University. I'm now working on AI Agents, advised by [Prof. Yu Su](https://ysu1989.github.io/).  Before joining OSU, I obtained my bachelor’s degree in Computer Science from ShanghaiTech University in Shanghai, China, where I was advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/) about Structure Prediction in NLP.
 
-**I'm  actively doing research now and seeking opportunities for a Ph.D degree.**
+**I'm seeking opportunities for a Ph.D degree.**
 
 ## Research Interests
 
