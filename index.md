@@ -17,7 +17,7 @@ I'm broadly interested in **Natural Language Processing**, **Multimodality** and
 
 ## News
 
-- **[Aug. 2023]** Joined OSU, and am honored to work in Prof. Yu Su's Group
+- **[Aug. 2023]** Joined OSU, and am honored to work in Prof. Yu Su's Group.
 
 
 ## Education
