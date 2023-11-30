@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first year M.S. student at The Ohio State University. I'm now working on AI Agents in [OSUNLP Group](https://twitter.com/osunlp), advised by [Prof. Yu Su](https://ysu1989.github.io/).  Before joining OSU, I obtained my bachelor’s degree in Computer Science from ShanghaiTech University in Shanghai, China, where I was advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/) about Structure Prediction in NLP.
+I am a first year M.S. student at The Ohio State University. I'm now working on AI Agents and LLMs in [OSUNLP Group](https://twitter.com/osunlp), advised by [Prof. Yu Su](https://ysu1989.github.io/).  Before joining OSU, I obtained my bachelor’s degree in Computer Science from ShanghaiTech University in Shanghai, China, where I was advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/) about Structure Prediction in NLP.
 
 **I'm seeking opportunities for a Ph.D degree.**
 
@@ -12,7 +12,7 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 
 I'm broadly interested in **Natural Language Processing**, **Multimodality** and **broad AI**. The recent points that drive my thoughts are:
 - **Large Language Models**(LLMs) and **LLM-driven Vision Language Models**(VLMs)
-- **AI Agents** and **Embodied AI** (especially the details and foundations of them)
+- **AI Agents** and **Embodied AI**
 - **Web Agents** (AI agents specified in web scenarios)
 
 ## News
