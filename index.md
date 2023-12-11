@@ -8,6 +8,8 @@ My name is Boyu Gou(苟博宇), a first year M.S. student at The Ohio State Univ
 
 **I'm seeking opportunities for a Ph.D degree.**
 
+**Looking forward to research/industry interns on LLM/VLM/LMM, AI agents, broad NLP and broad AI in 2024 summer.**
+
 ## Research Interests
 
 I'm broadly interested in **Natural Language Processing**, **Multimodality** and **broad AI**. The recent points that drive my thoughts are:
