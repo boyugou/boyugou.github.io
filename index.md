@@ -13,7 +13,7 @@ My name is Boyu Gou(苟博宇), a first year M.S. student at The Ohio State Univ
 ## Research Interests
 
 I'm broadly interested in **Natural Language Processing**, **Multimodality** and **broad AI**. The recent points that drive my thoughts are:
-- **Large Language Models**(LLMs) and **LLM-driven Vision Language Models**(VLMs)
+- **Large Language Models**(LLMs) and **Large Multimodal Models**(LMMs)
 - **AI Agents** and **Embodied AI**
 - **Web Agents** (AI agents specified in web scenarios)
 
