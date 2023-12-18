@@ -12,7 +12,7 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 
 ## Research Interests
 
-I'm broadly interested in **Natural Language Processing**, **Multimodality** and **broad AI**. And I am currently fascinated by **AI agents**.
+I'm broadly interested in **Natural Language Processing**, **Multimodality** and **broad AI**. And I am currently fascinated by **AI Agents**.
 
 The recent points that drive my thoughts are:
 - **Large Language Models**(LLMs) and **Large Multimodal Models**(LMMs)
