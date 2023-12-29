@@ -19,6 +19,9 @@ The recent points that drive my thoughts are:
 - **AI Agents** and **Embodied AI**
 - **Web Agents** (AI agents specified in web scenarios)
 
+{% include_relative _includes/publications.md %}
+
+
 ## News
 
 - **[Aug. 2023]** Joined OSU, and am honored to work in Prof. Yu Su's Group.
