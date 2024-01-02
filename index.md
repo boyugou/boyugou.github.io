@@ -15,9 +15,10 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 I'm broadly interested in **Natural Language Processing**, **AI Agents** and **broad AI**. 
 
 The recent points that drive my thoughts are:
-- **AI Agents**: Grounding, fine-tuning and other foundations.
+- **AI Agents**: Grounding, Reasoning, Planning, Fine-tuning, etc.
 - **Web Agents**: AI agents specified in web scenarios.
-- **RL for Language Agents**
+- **Foundation Models for Agents**: Multimodality and LLMs.
+- **RL for AI Agents**
 
 
 
