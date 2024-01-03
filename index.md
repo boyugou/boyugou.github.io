@@ -6,7 +6,7 @@ layout: homepage
 
 I am a first year M.S. student at The Ohio State University. I'm now working on AI Agents in [OSUNLP Group](https://twitter.com/osunlp), advised by [Prof. Yu Su](https://ysu1989.github.io/).  Before joining OSU, I obtained my bachelor’s degree in Computer Science from ShanghaiTech University in Shanghai, China, where I was advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/) about Structure Prediction in NLP.
 
-**I'm seeking opportunities for a Ph.D degree.**
+**I'm seeking opportunities for a Ph.D degree for Fall 2025.**
 
 **Looking for research/industry interns on LLM/VLM/LMM, AI agents, broad NLP and broad AI in 2024 summer.**
 
