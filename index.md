@@ -26,7 +26,7 @@ The recent points that drive my thoughts are:
 
 ## News
 
-- **[Jan. 2024]** Published [SeeAct](https://twitter.com/ysu_nlp/status/1742398541660639637), a generalist web agent powered by GPT-4V. More sophisticated web agents are on the way!
+- **[Jan. 2024]** Released [SeeAct](https://twitter.com/ysu_nlp/status/1742398541660639637), a generalist web agent powered by GPT-4V. More sophisticated web agents are on the way!
 - **[Aug. 2023]** Joined OSU, and am honored to work in Prof. Yu Su's Group.
 
 
