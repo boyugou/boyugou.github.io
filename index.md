@@ -17,7 +17,7 @@ I'm broadly interested in **Natural Language Processing**, **AI Agents** and **b
 The recent points that drive my thoughts are:
 - **General Purpose AI Agents**: grounding, reasoning, planning, fine-tuning, RL, frameworks, etc.
 - **Web Agents**: AI agents specified in web scenarios.
-- **Foundation Models for Agents**: Multimodality and LLMs.
+- **Foundation Models**: Multimodality and LLMs.
 
 
 
