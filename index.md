@@ -21,7 +21,7 @@ The recent points that drive my thoughts are:
 
 {% include_relative _includes/publications.md %}
 
-## Software
+## Code & Software
 - [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): A codebase designed for autonomous web agents. You can freely test it with any task on any website.
 
 ## News
