@@ -8,14 +8,12 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 
 **I'm seeking opportunities for a Ph.D degree for Fall 2025.**
 
-**Looking for research/industry interns on LLM/VLM/LMM, AI agents, broad NLP and broad AI in 2024 summer.**
-
 ## Research Interests
 
 I'm broadly interested in **Natural Language Processing**, **AI Agents** and **broad AI**. 
 
 The recent points that drive my thoughts are:
-- **General Purpose AI Agents**: reasoning, planning, learning, grounding, frameworks, fine-tuning, RL, etc.
+- **General Purpose AI Agents**: Reasoning, planning, learning, grounding, frameworks, fine-tuning, RL, etc.
 - **Web Agents**: AI agents specified in web scenarios.
 - **Foundation Models**: Multimodality and LLMs.
 
@@ -23,6 +21,8 @@ The recent points that drive my thoughts are:
 
 {% include_relative _includes/publications.md %}
 
+## Software
+- [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): A codebase designed for autonomous web agents. You can freely test it with any task on any website.
 
 ## News
 
