@@ -16,8 +16,8 @@ The recent points that drive my thoughts are:
 - All about **General Purpose AI Agents**: Reasoning, planning, learning, grounding, algorithms, frameworks, fine-tuning, RL, evaluation, etc.
 - All about **Foundation Models**: Multimodality, Large Language Models, Large Multimodal Models, etc.
 - **Web Agents**: AI agents specified in web scenarios.
-- **Reasoning**: I'm really interested in reasoning abilities that require specific knowledge recently, without large-scale data for supervised learning.
-- **Efficient Reinforcement Learning**: Efficiently apply RL to AI Agents.
+- **Reasoning**: Reasoning abilities that require specific knowledge, especially without relying on large-scale data for supervised learning.
+- **Efficient Reinforcement Learning**: Applying reinforcement learning efficiently to AI Agents.
 
 If you share any similar interest with me, feel free to drop me an email to discuss ideas and potential collaboratoin.
 
