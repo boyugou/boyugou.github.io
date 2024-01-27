@@ -16,6 +16,9 @@ The recent points that drive my thoughts are:
 - **General Purpose AI Agents**: Reasoning, planning, learning, grounding, frameworks, fine-tuning, RL, evaluation, etc.
 - **Web Agents**: AI agents specified in web scenarios.
 - **Foundation Models**: Multimodality and LLMs.
+- **Reasoning**: I'm really interested in reasoning ability that requires specific knowledges recently.
+
+If you share any similar interest with me, feel free to drop me an email to discuss ideas and potential collaboratoin.
 
 
 
