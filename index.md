@@ -14,7 +14,7 @@ I'm broadly interested in **AI Agents**, **Natural Language Processing**, and **
 
 The recent points that drive my thoughts are:
 - All about **General Purpose AI Agents**: Reasoning, planning, learning, grounding, evaluation, frameworks & pipelines, algorithms, fine-tuning, etc.
-- All about **Foundation Models**: Multimodality, Large Language Models, Large Multimodal Models, etc.
+- All about **Foundation Models**: Multimodality, Large Language Models (LLMs), Large Multimodal Models (LMMs), etc.
 - **Web Agents**: AI agents specified in web scenarios.
 - **Reasoning**: Reasoning abilities that require specific knowledge, especially without relying on large-scale data for supervised fine-tuning (SFT).
 - **Efficient Reinforcement Learning**: Applying reinforcement learning efficiently to AI Agents.
