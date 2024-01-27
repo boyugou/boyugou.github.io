@@ -49,6 +49,6 @@ Teaching Assistant at ShanghaiTech University:
   - Theories, algorithms, and convergence analysis of linear and nonlinear optimization.
 - CS110&CS110P Computer Architecture I & Computer Architecture I Project, 2022 Spring
   - Instructor: [Prof. Chundong Wang](https://scholar.google.com/citations?user=a-79PFIAAAAJ&hl=en) & [Prof. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de)
-  - Similar to UC Berkeley CS61C Great Ideas in Computer Architecture. The syllabus is [here](https://robotics.shanghaitech.edu.cn/courses/ca/22s/).
+  - Similar to UC Berkeley CS61C Great Ideas in Computer Architecture. The course homepage is [here](https://robotics.shanghaitech.edu.cn/courses/ca/22s/).
 - CLPS1001 Intimacy Psychology, 2023 Spring
   - Instructor: Dr. Yaqi Cai 
