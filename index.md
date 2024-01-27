@@ -22,7 +22,7 @@ The recent points that drive my thoughts are:
 {% include_relative _includes/publications.md %}
 
 ## Code & Software
-- [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): A codebase designed for autonomous web agents with our SeeAct framework and grounding strategies. **You can freely test it with any task on any live website with just one click!**
+- [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): I'm the principal developer of SeeAct v0.1.0. It is a easy-to-use codebase designed for autonomous web agents with our SeeAct framework and grounding strategies. **You can freely test it with any task on any live website with just one click!**
 
 ## News
 
