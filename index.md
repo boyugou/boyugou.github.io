@@ -46,9 +46,9 @@ Teaching Assistant at ShanghaiTech University:
 
 - SI152 Numerical Optimization, 2022 Fall
   - Instructor: [Prof. Hao Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wanghao/)
-  - About Linear and Nonlinear Optimization.
+  - Theories, algorithms, and convergence analysis of linear and nonlinear optimization.
 - CS110&CS110P Computer Architecture I & Computer Architecture I Project, 2022 Spring
-  -  Instructor: [Prof. Chundong Wang](https://scholar.google.com/citations?user=a-79PFIAAAAJ&hl=en) & [Prof. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de)
+  - Instructor: [Prof. Chundong Wang](https://scholar.google.com/citations?user=a-79PFIAAAAJ&hl=en) & [Prof. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de)
   - Similar to UC Berkeley CS61c.
 - CLPS1001 Intimacy Psychology, 2023 Spring
   - Instructor: Dr. Yaqi Cai 
