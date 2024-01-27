@@ -10,7 +10,7 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 
 ## Research Interests
 
-I'm broadly interested in **AI Agents**, **Natural Language Processing**, and **broad AI**. 
+I'm broadly interested in **AI Agents**, **Natural Language Processing**, and **broader AI**. 
 
 The recent points that drive my thoughts are:
 - All about **General Purpose AI Agents**: Reasoning, planning, learning, grounding, algorithms, frameworks, fine-tuning, RL, evaluation, etc.
