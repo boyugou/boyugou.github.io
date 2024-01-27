@@ -19,7 +19,7 @@ The recent points that drive my thoughts are:
 - **Reasoning**: Reasoning abilities that require specific knowledge, especially without relying on large-scale data for supervised fine-tuning (SFT).
 - **Efficient Reinforcement Learning**: Applying reinforcement learning efficiently to AI Agents.
 
-If you share any similar interest with me, feel free to drop me an email to discuss ideas and potential collaboratoin.
+If you share any similar interests, feel free to email me to discuss ideas and potential collaboration.
 
 
 
