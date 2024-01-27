@@ -17,7 +17,7 @@ The recent points that drive my thoughts are:
 - All about **Foundation Models**: Multimodality, Large Language Models, Large Multimodal Models, etc.
 - **Web Agents**: AI agents specified in web scenarios.
 - **Reasoning**: I'm really interested in reasoning abilities that require specific knowledge recently, without large-scale data for supervised learning.
-- **Efficient Reinforcement Learning**: Efficiently apply RL to agents learning.
+- **Efficient Reinforcement Learning**: Efficiently apply RL to AI Agents.
 
 If you share any similar interest with me, feel free to drop me an email to discuss ideas and potential collaboratoin.
 
