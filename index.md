@@ -12,12 +12,16 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 
 I'm broadly interested in **AI Agents**, **Natural Language Processing**, and **broader AI**. 
 
-The recent points that drive my thoughts are:
+Specifically:
 - All about **General Purpose AI Agents**: Reasoning, planning, learning, grounding, evaluation, frameworks & pipelines, algorithms, fine-tuning, etc.
 - All about **Foundation Models**: Multimodality, Large Language Models (LLMs), Large Multimodal Models (LMMs), etc.
-- **Web Agents**: AI agents specified in web scenarios.
+
+
+The recent points that drive my thoughts are:
 - **Reasoning**: Reasoning abilities that require specific knowledge, especially without relying on large-scale data for supervised fine-tuning (SFT).
 - **Efficient Reinforcement Learning**: Applying reinforcement learning efficiently to AI Agents.
+- **Web Agents**: AI agents specified in web scenarios.
+
 
 If you share any similar interests, feel free to email me to discuss ideas and potential collaboration.
 
