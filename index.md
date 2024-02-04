@@ -18,7 +18,7 @@ Specifically:
 
 
 The recent points that drive my thoughts are:
-- **Reasoning**
+- **Reasoning** (Or more generally, making LLMs think)
 - **Efficient Reinforcement Learning for LLMs and Agents**
 - **Web/UI Agents**
 
