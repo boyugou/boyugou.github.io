@@ -19,7 +19,7 @@ Specifically:
 
 The recent points that drive my thoughts are:
 - **Reasoning**
-- **Efficient Reinforcement Learning**:
+- **Efficient Reinforcement Learning for LLMs and Agents**
 - **Web/UI Agents**
 
 
