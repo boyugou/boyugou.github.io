@@ -10,7 +10,7 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 
 ## Research Interests
 
-I'm broadly interested in **General Purpose AI (Language) Agents**, **Foundation Models**(LLMs and Multimodality), and **broader AI**. 
+I'm broadly interested in **General Purpose AI (Language) Agents**, **Foundation Models** (LLMs and Multimodality), and **broader AI**. 
 
 The recent points that drive my thoughts are:
 - **Reasoning** (Or more generally, making LLMs think)
