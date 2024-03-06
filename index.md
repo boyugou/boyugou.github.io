@@ -13,10 +13,8 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 I'm broadly interested in **General Purpose AI Agents**, **Foundation Models** (LLMs and Multimodality), NLP, and **broader AI**. 
 
 The recent points that drive my thoughts are:
-- **Reasoning** (Or more generally, making LLMs think)
-- **Efficient Reinforcement Learning for LLMs and Agents**
-- **Web/UI Agents**
-
+- Multimodality and Foundation Models for Agents.
+- Web/UI Agents
 
 If you share any similar interests, feel free to email me to discuss ideas and potential collaboration.
 
@@ -31,6 +29,13 @@ If you share any similar interests, feel free to email me to discuss ideas and p
 
 - **[Jan. 2024]** Released [SeeAct](https://twitter.com/ysu_nlp/status/1742398541660639637), a generalist web agent powered by GPT-4V. More sophisticated web agents are on the way!
 - **[Aug. 2023]** Joined OSU, and am honored to work in Prof. Yu Su's Group.
+
+
+## Academic Services
+
+- Reviewer:
+  - ICLR 2024 Workshop on LLM Agents
+
 
 
 ## Education
