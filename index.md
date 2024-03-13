@@ -30,9 +30,7 @@ If you share any similar interests, feel free to email me to discuss ideas and p
 ## Academic Services
 
 - Reviewer:
-  - ICLR 2024 Workshop
-
-
+  - LLMAgents Workshop @ ICLR 2024
 
 ## Education
 
