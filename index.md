@@ -10,7 +10,7 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 
 ## Research Interests
 
-I'm broadly interested in **General Purpose AI Agents**, **Foundation Models** (LLMs and Multimodality), NLP, and **broader AI**. Specifically, I'm currently working on autonomous web and UI (mobile/desktop) agents.
+I'm broadly interested in **General Purpose AI Agents**, **Foundation Models** (LLMs and Multimodality), **NLP**, and **broader AI**. Specifically, I'm currently working on autonomous web and UI (mobile/desktop) agents.
 
 If you share any similar interests, feel free to email me to discuss ideas and potential collaboration.
 
@@ -18,13 +18,15 @@ If you share any similar interests, feel free to email me to discuss ideas and p
 
 {% include_relative _includes/publications.md %}
 
+## News
+- **[Ma. 2024]** [SeeAct](https://osu-nlp-group.github.io/SeeAct/) is accepted by LLM Agents WorkShop @ ICLR 2024.
+- **[Jan. 2024]** Released [SeeAct](https://twitter.com/ysu_nlp/status/1742398541660639637), a generalist web agent powered by GPT-4V. More sophisticated web agents are on the way!
+- **[Aug. 2023]** Joined OSU, and am honored to work in Prof. Yu Su's Group.
+
+
 ## Code & Software
 - [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): I'm the principal developer of SeeAct. It is a easy-to-use codebase designed for autonomous web agents with our SeeAct framework and grounding strategies. **You can freely test it with any task on any live website with just one click!** And its lightweight nature makes it ideal for further research expansion.
 
-## News
-
-- **[Jan. 2024]** Released [SeeAct](https://twitter.com/ysu_nlp/status/1742398541660639637), a generalist web agent powered by GPT-4V. More sophisticated web agents are on the way!
-- **[Aug. 2023]** Joined OSU, and am honored to work in Prof. Yu Su's Group.
 
 
 ## Academic Services
