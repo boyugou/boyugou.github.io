@@ -8,7 +8,7 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 
 ## Research Interests
 
-I'm broadly interested in **General Purpose AI Agents**, **Foundation Models** (LLMs and Multimodality), **NLP**, and **broader AI**. Specifically, I'm currently working on autonomous web and UI (mobile/desktop) agents.
+I'm broadly interested in **General Purpose AI Agents**, **Foundation Models** (LLMs and Multimodality), and **NLP**. Specifically, I'm currently working on autonomous web and UI (mobile/desktop) agents.
 
 If you share any similar interests, feel free to email me to discuss ideas and potential collaboration.
 
