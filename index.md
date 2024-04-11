@@ -22,7 +22,7 @@ If you share any similar interests, feel free to email me to discuss ideas and p
 
 
 ## Code & Software
-- [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): I'm the principal developer of SeeAct. It is a easy-to-use codebase designed for autonomous web agents with our SeeAct framework and grounding strategies. **You can freely test it with any task on any live website with just one click!** And its lightweight nature makes it ideal for further research expansion.
+- [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): A easy-to-use codebase designed for autonomous web agents with our SeeAct framework and grounding strategies. **You can freely test it with any task on any live website with just one click!** And its lightweight nature makes it ideal for further research expansion.
 
 
 
