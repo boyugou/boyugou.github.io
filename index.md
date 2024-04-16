@@ -8,7 +8,7 @@ I am a first year M.S. student at The Ohio State University. I'm now working on 
 
 ## Research Interests
 
-I'm broadly interested in **AI Agents** and **Foundation Models** (Large Language Models and Large Multimodal Models). 
+I'm broadly interested in **AI Agents** (General-purpose and ones in specific domains) and **Foundation Models** (Large Language Models and Large Multimodal Models). 
 
 Specifically, I'm currently working on autonomous web and UI (mobile/desktop) agents.
 
