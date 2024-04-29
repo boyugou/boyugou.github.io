@@ -24,8 +24,7 @@ If you share any similar interests, feel free to email me to discuss ideas and p
 
 
 ## Code & Software
-- <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social" alt="GitHub Stars"></a> [SeeAct](https://github.com/OSU-NLP-Group/SeeAct)
-  - A easy-to-use codebase designed for autonomous web agents. **You can freely test it with any task on any live website with just one click!** It's also a python package. We hope it can be utilized by other agent work as a convenient web browsing implementation.
+- [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): A easy-to-use codebase designed for autonomous web agents. **You can freely test it with any task on any live website with just one click!** It's also a python package. We hope it can be utilized by other agent work as a convenient web browsing implementation. <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social" alt="GitHub Stars"></a> 
 
 
 
