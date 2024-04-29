@@ -24,7 +24,7 @@ If you share any similar interests, feel free to email me to discuss ideas and p
 
 
 ## Code & Software
-- [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): A easy-to-use codebase designed for autonomous web agents with our SeeAct framework and grounding strategies. **You can freely test it with any task on any live website with just one click!** And its lightweight nature makes it ideal for further research expansion.
+- [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): A easy-to-use codebase designed for autonomous web agents. **You can freely test it with any task on any live website with just one click!** It's also a python package. We hope it can be utilized by other agent work as a convenient web browsing implementation.
 
 
 
