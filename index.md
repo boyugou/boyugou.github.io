@@ -10,7 +10,7 @@ I am a first year Ph.D. student at The Ohio State University. I'm now working on
 
 I'm broadly interested in **AI Agents** (general-purpose agents and ones in specific domains) and **Foundation Models** (Large Language Models and Large Multimodal Models). 
 
-Specifically, I'm currently working on autonomous web and UI (mobile/desktop) agents.
+Specifically, I'm currently working on autonomous GUI (web/mobile/desktop) agents.
 
 If you share any similar interests, feel free to email me to discuss ideas and potential collaboration.
 
