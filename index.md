@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at The Ohio State University. I'm now working on **AI Agents** in [OSUNLP Group](https://twitter.com/osunlp), co-advised by [Prof. Yu Su](https://ysu1989.github.io/) and [Prof. Huan Sun](https://u.osu.edu/ihudas/people/).  Before joining OSU, I obtained my bachelor’s degree in Computer Science from ShanghaiTech University in Shanghai, China, where I was advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/) about Structure Prediction in NLP.
+I am a Ph.D. student at The Ohio State University. I'm working on **AI Agents** in [OSUNLP Group](https://twitter.com/osunlp), co-advised by [Prof. Yu Su](https://ysu1989.github.io/) and [Prof. Huan Sun](https://u.osu.edu/ihudas/people/).  Before joining OSU, I obtained my bachelor’s degree in Computer Science from ShanghaiTech University in Shanghai, China, where I was advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/) on Structure Prediction in NLP.
 
 ## Research Interests
 
-I'm broadly interested in **AI Agents** (general-purpose agents and ones in specific domains) and **Foundation Models** (Large Language Models and Large Multimodal Models). 
+I'm broadly interested in **AI Agents** (general-purpose agents and domain-specific agents) and **Foundation Models** (Large Language Models and Large Multimodal Models). 
 
-Specifically, I'm currently working on autonomous GUI (web/mobile/desktop) agents.
+Currently, I'm working on autonomous GUI (web/mobile/desktop) agents.
 
 If you share any similar interests, feel free to email me to discuss ideas and potential collaboration.
 
@@ -20,11 +20,11 @@ If you share any similar interests, feel free to email me to discuss ideas and p
 
 ## News
 - **[Jan. 2024]** Released [SeeAct](https://twitter.com/ysu_nlp/status/1742398541660639637), a generalist web agent powered by GPT-4V. More sophisticated web agents are on the way!
-- **[Aug. 2023]** Joined OSU, and am honored to work in Prof. Yu Su's Group.
+- **[Aug. 2023]** Joined OSU, and am honored to work in OSUNLP Group.
 
 
 ## Code & Software
-- [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): An easy-to-use codebase and python package designed for autonomous web agents. **You can freely test it with any task on any live website with just one click!** It is also helpful for other agent work as a convenient web browsing implementation. <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social" alt="GitHub Stars"></a> 
+- [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): An easy-to-use codebase and Python package designed for autonomous web agents. **You can freely test it with any task on any live website with just one click!** It is also useful for other agent work as a convenient web browsing implementation. <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social" alt="GitHub Stars"></a> 
 
 
 
@@ -37,7 +37,7 @@ If you share any similar interests, feel free to email me to discuss ideas and p
 
 - The Ohio State Univeristy, US
   - Ph.D. in Computer Science and Engineering
-  - 2023.08 - Present (Transited from M.S.)
+  - 2023.08 - Present (Transitioned from M.S.)
 
 - ShanghaiTech University, China
   - B.Eng in Computer Science and Technology
