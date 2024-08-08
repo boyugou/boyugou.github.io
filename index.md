@@ -36,8 +36,8 @@ If you share any similar interests, feel free to email me to discuss ideas and p
 ## Education
 
 - The Ohio State Univeristy, US
-  - Ph.D. in Computer Science and Engineering (Transited from M.S. since SU24)
-  - 2023.08 - Present
+  - Ph.D. in Computer Science and Engineering
+  - 2023.08 - Present (Transited from M.S.)
 
 - ShanghaiTech University, China
   - B.Eng in Computer Science and Technology
