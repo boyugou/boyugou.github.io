@@ -12,7 +12,7 @@ I'm broadly interested in **AI Agents** (general-purpose agents and domain-speci
 
 Currently, I'm working on autonomous GUI (web/mobile/desktop) agents.
 
-If you share any similar interests, feel free to email me to discuss ideas and potential collaboration.
+If you share any similar interests, feel free to email me or contact me through LinkedIn to discuss ideas and potential collaborations.
 
 
 
