@@ -1,4 +1,16 @@
 main:
+  - title: "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents"
+    authors: </strong>Boyu Gou</strong>, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su
+    conference_short: ICML 2024
+    pdf: https://github.com/OSU-NLP-Group/UGround/blob/gh-pages/static/papers/UGround_paper.pdf
+    code: https://github.com/OSU-NLP-Group/UGround
+    page: https://osu-nlp-group.github.io/UGround/
+    image: ./assets/paper_figures/uground.png
+
+  - title: "WebOlympus: An Open Platform for Web Agents on Live Websites"
+    authors: Boyuan Zheng*, </strong>Boyu Gou</strong>*, Scott Salisbury*, Zheng Du*, Huan Sun, Yu Su
+    conference_short: EMNLP 2024 Demo
+    image: ./assets/paper_figures/WebOlympus.jpg
 
   - title: "GPT-4V(ision) is a Generalist Web Agent,if Grounded"
     authors: Boyuan Zheng, <strong>Boyu Gou</strong>, Jihyung Kil, Huan Sun, Yu Su
