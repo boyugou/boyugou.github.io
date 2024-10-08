@@ -1,8 +1,8 @@
 main:
   - title: "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents"
     authors: <strong>Boyu Gou</strong>, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su
-    conference_short: Preprint
-    pdf: https://github.com/OSU-NLP-Group/UGround/blob/gh-pages/static/papers/UGround_paper.pdf
+    conference_short: arXiv
+    pdf: https://arxiv.org/abs/2410.05243
     code: https://github.com/OSU-NLP-Group/UGround
     page: https://osu-nlp-group.github.io/UGround/
     image: ./assets/paper_figures/uground.png
@@ -15,7 +15,7 @@ main:
   - title: "GPT-4V(ision) is a Generalist Web Agent,if Grounded"
     authors: Boyuan Zheng, <strong>Boyu Gou</strong>, Jihyung Kil, Huan Sun, Yu Su
     conference_short: ICML 2024
-    pdf: https://arxiv.org/abs/2401.01614.pdf
+    pdf: https://arxiv.org/abs/2401.01614
     code: https://github.com/OSU-NLP-Group/SeeAct
     page: https://osu-nlp-group.github.io/SeeAct/
     image: ./assets/img/seeact.gif
