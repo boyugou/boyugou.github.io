@@ -8,9 +8,6 @@ main:
     image: ./assets/paper_figures/uground.png
     twitter: https://x.com/ysu_nlp/status/1844186560901808328
 
-
-
-
   - title: "WebOlympus: An Open Platform for Web Agents on Live Websites"
     authors: Boyuan Zheng*, <strong>Boyu Gou</strong>*, Scott Salisbury*, Zheng Du*, Huan Sun, Yu Su
     conference_short: EMNLP 2024 Demo
