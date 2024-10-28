@@ -8,7 +8,7 @@ I am a Ph.D. student at The Ohio State University. I'm working on **AI Agents** 
 
 ## Research Interests
 
-I'm broadly interested in **AI Agents** (general-purpose agents and domain-specific agents) and **Foundation Models** (Large Language Models and Large Multimodal Models). 
+I'm broadly interested in **AI Agents** (in general or specific domains) and **Foundation Models** (Large Language Models and Large Multimodal Models). 
 
 Currently, I'm working on autonomous GUI (web/mobile/desktop) agents.
 
