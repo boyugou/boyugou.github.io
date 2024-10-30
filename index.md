@@ -27,7 +27,7 @@ If you share any similar interests, feel free to email me or contact me through 
 
 ## Misc
 - [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): An easy-to-use codebase and Python package designed for autonomous web agents. **You can freely test it with any task on any live website with just one click!** It is also useful for other agent work as a convenient web browsing implementation. <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social" alt="GitHub Stars"></a>
-- [GUI Agent Paper List](https://github.com/boyugou/GUI-Agents-Paper-List): A continuously updated and comprehensive GUI Agent paper list.
+- [GUI Agent Paper List](https://github.com/boyugou/GUI-Agents-Paper-List): A comprehensive & up-to-date GUI Agent paper list
 
 
 
