@@ -8,6 +8,12 @@ main:
     image: ./assets/paper_figures/uground.png
     twitter: https://x.com/ysu_nlp/status/1844186560901808328
 
+  - title: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents"
+    authors: Yu Gu, Boyuan Zheng, <strong>Boyu Gou</strong>, Kai Zhang, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su
+    conference_short: arXiv
+    pdf: https://arxiv.org/abs/2411.06559
+    image: ./assets/paper_figures/wmp.png
+
   - title: "WebOlympus: An Open Platform for Web Agents on Live Websites"
     authors: Boyuan Zheng*, <strong>Boyu Gou</strong>*, Scott Salisbury*, Zheng Du*, Huan Sun, Yu Su
     conference_short: EMNLP 2024 Demo
