@@ -1,4 +1,23 @@
 main:
+
+  - title: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents"
+    authors: Yu Gu, Boyuan Zheng, <strong>Boyu Gou</strong>, Kai Zhang, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su
+    conference_short: arXiv
+    pdf: https://arxiv.org/abs/2411.06559
+    image: ./assets/paper_figures/wmp.png
+
+  - title: "Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving"
+    authors: Botao Yu, Frazier N. Baker, Ziru Chen, Garrett Herb, <strong>Boyu Gou</strong>, Daniel Adu-Ampratwum, Xia Ning, Huan Sun
+    conference_short: arXiv
+    pdf: https://arxiv.org/abs/2411.07228v1
+    image: ./assets/paper_figures/chemagent.png
+
+  - title: "WebOlympus: An Open Platform for Web Agents on Live Websites"
+    authors: Boyuan Zheng*, <strong>Boyu Gou</strong>*, Scott Salisbury*, Zheng Du*, Huan Sun, Yu Su
+    conference_short: EMNLP 2024 Demo
+    pdf: https://aclanthology.org/2024.emnlp-demo.20.pdf
+    image: ./assets/paper_figures/WebOlympus.jpg
+
   - title: "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents"
     authors: <strong>Boyu Gou</strong>, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su
     conference_short: arXiv
@@ -7,18 +26,6 @@ main:
     page: https://osu-nlp-group.github.io/UGround/
     image: ./assets/paper_figures/uground.png
     twitter: https://x.com/ysu_nlp/status/1844186560901808328
-
-  - title: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents"
-    authors: Yu Gu, Boyuan Zheng, <strong>Boyu Gou</strong>, Kai Zhang, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su
-    conference_short: arXiv
-    pdf: https://arxiv.org/abs/2411.06559
-    image: ./assets/paper_figures/wmp.png
-
-  - title: "WebOlympus: An Open Platform for Web Agents on Live Websites"
-    authors: Boyuan Zheng*, <strong>Boyu Gou</strong>*, Scott Salisbury*, Zheng Du*, Huan Sun, Yu Su
-    conference_short: EMNLP 2024 Demo
-    pdf: https://aclanthology.org/2024.emnlp-demo.20.pdf
-    image: ./assets/paper_figures/WebOlympus.jpg
 
   - title: "GPT-4V(ision) is a Generalist Web Agent,if Grounded"
     authors: Boyuan Zheng, <strong>Boyu Gou</strong>, Jihyung Kil, Huan Sun, Yu Su
