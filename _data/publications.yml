@@ -17,6 +17,9 @@ main:
     conference_short: EMNLP 2024 Demo
     pdf: https://aclanthology.org/2024.emnlp-demo.20.pdf
     image: ./assets/paper_figures/WebOlympus.jpg
+    code: https://github.com/OSU-NLP-Group/SeeAct
+    page: https://osu-nlp-group.github.io/SeeAct/
+    twitter: https://twitter.com/ysu_nlp/status/1742398541660639637
 
   - title: "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents"
     authors: <strong>Boyu Gou</strong>, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su
