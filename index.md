@@ -43,7 +43,7 @@ If you share any similar interests, feel free to email me or contact me through 
 
 - The Ohio State Univeristy, US
   - Ph.D. in Computer Science and Engineering
-  - 2023.08 - Present (Transitioned from M.S.)
+  - 2023.08 - Present
 
 - ShanghaiTech University, China
   - B.Eng in Computer Science and Technology
