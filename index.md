@@ -36,6 +36,7 @@ If you share any similar interests, feel free to email me or contact me through 
 ## Academic Services
 
 - Reviewer:
+  - Main Conference: ICLR 2025  
   - Workshop: LLMAgents @ ICLR 2024
 
 ## Education
