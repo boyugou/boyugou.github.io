@@ -9,7 +9,7 @@ main:
 
   - title: "Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving"
     authors: Botao Yu, Frazier N. Baker, Ziru Chen, Garrett Herb, <strong>Boyu Gou</strong>, Daniel Adu-Ampratwum, Xia Ning, Huan Sun
-    conference_short: arXiv
+    conference_short: NAACL 2025 Findings
     pdf: https://arxiv.org/abs/2411.07228
     image: ./assets/paper_figures/chemagent.png
     page: https://osu-nlp-group.github.io/ChemAgent/
@@ -27,7 +27,7 @@ main:
 
   - title: "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents"
     authors: <strong>Boyu Gou</strong>, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su
-    conference_short: arXiv
+    conference_short: ICLR 2025
     pdf: https://arxiv.org/abs/2410.05243
     code: https://github.com/OSU-NLP-Group/UGround
     page: https://osu-nlp-group.github.io/UGround/
