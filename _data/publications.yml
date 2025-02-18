@@ -16,7 +16,7 @@ main:
 
   - title: "Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving"
     authors: Botao Yu, Frazier N. Baker, Ziru Chen, Garrett Herb, <strong>Boyu Gou</strong>, Daniel Adu-Ampratwum, Xia Ning, Huan Sun
-    conference_short: NAACL 2025 Findings
+    conference_short: NAACL 2025
     pdf: https://arxiv.org/abs/2411.07228
     image: ./assets/paper_figures/chemagent.png
     page: https://osu-nlp-group.github.io/ChemAgent/
