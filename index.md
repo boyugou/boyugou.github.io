@@ -19,7 +19,7 @@ Currently, I'm primarily working on **[autonomous GUI agents](https://github.com
 ## News
 - **[Oct. 2024]** Released [UGround](https://osu-nlp-group.github.io/UGround/), a new SOTA GUI visual grounding model that empowers entirely vision-only GUI agents by a new & generic SeeAct-V framework. Have a try with our [live demo](https://huggingface.co/spaces/orby-osu/UGround)!
 - **[Jan. 2024]** Released [SeeAct](https://twitter.com/ysu_nlp/status/1742398541660639637), a generalist web agent powered by GPT-4V. More sophisticated web agents are on the way! (Accepted at ICML 2024)
-- **[Aug. 2023]** Joined OSU, and am honored to work in OSUNLP Group.
+- **[Aug. 2023]** Joined OSU, and am honored to work in OSU NLP Group.
 
 
 ## Misc
