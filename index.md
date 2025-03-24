@@ -8,11 +8,11 @@ I am a Ph.D. student at The Ohio State University. I'm working on **AI Agents** 
 
 ## Research Interests
 
-I'm broadly interested in **Language Agents** (General/GUI) and **Foundation Models** (Vison/LLM/MLLM). 
+I'm broadly interested in **Language Agents** and **Foundation Models** (Vison/LLM/MLLM). 
 
-Currently, I'm working on autonomous GUI (web/mobile/desktop) agents.
+Currently, I'm working on autonomous GUI agents (web/mobile/desktop).
 
-If you share any similar interests, feel free to email me or contact me through LinkedIn to discuss ideas and potential collaborations.
+If you share any similar interests, or are interested in research internship, feel free to email me or contact me through LinkedIn to discuss ideas and potential collaborations.
 
 
 
