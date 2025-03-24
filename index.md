@@ -12,7 +12,7 @@ I'm broadly interested in **Language Agents** and **Foundation Models** (Vison/L
 
 Currently, I'm working on autonomous GUI agents (web/mobile/desktop).
 
-If you share any similar interests, or are interested in a research internship, feel free to email me reach out on LinkedIn to discuss ideas and potential collaborations.
+If you share any similar interests, or are interested in a research internship, feel free to email me or reach out on LinkedIn to discuss ideas and potential collaborations.
 
 
 
