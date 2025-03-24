@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at The Ohio State University. I'm working on **AI Agents** in [OSUNLP Group](https://twitter.com/osunlp), co-advised by [Prof. Yu Su](https://ysu1989.github.io/) and [Prof. Huan Sun](https://u.osu.edu/ihudas/people/).  Before joining OSU, I obtained my bachelor’s degree in Computer Science from ShanghaiTech University in Shanghai, China, where I was advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/) on Structure Prediction in NLP.
+I am a Ph.D. student at The Ohio State University. I'm working on **AI Agents** in [OSU NLP Group](https://twitter.com/osunlp), co-advised by [Prof. Yu Su](https://ysu1989.github.io/) and [Prof. Huan Sun](https://u.osu.edu/ihudas/people/).  Before joining OSU, I obtained my bachelor’s degree in Computer Science from ShanghaiTech University in Shanghai, China, where I was advised by [Prof. Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/) on Structure Prediction in NLP.
 
 ## Research Interests
 
-I'm broadly interested in **AI Agents** (General/GUI) and **Foundation Models** (Vison/LLM/MLLM). 
+I'm broadly interested in **Language Agents** (General/GUI) and **Foundation Models** (Vison/LLM/MLLM). 
 
 Currently, I'm working on autonomous GUI (web/mobile/desktop) agents.
 
