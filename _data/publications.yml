@@ -1,5 +1,9 @@
 main:
 
+  - title: "An Illusion of Progress? Assessing the Current State of Web Agents"
+    authors: Tianci Xue, Weijian Qi, Tianneng Shi, Chan Hee Song, <strong>Boyu Gou</strong>, Dawn Song, Huan Sun, Yu Su
+    conference_short: arXiv
+    pdf: https://arxiv.org/abs/2504.01382
 
   - title: "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents"
     authors: Vardaan Pahuja, Yadong Lu, Corby Rosset, <strong>Boyu Gou</strong>, Arindam Mitra, Spencer Whitehead, Yu Su, Ahmed Awadallah
@@ -8,7 +12,7 @@ main:
     image: ./assets/paper_figures/explorer_vardaan.jpg
 
   - title: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents"
-    authors: Yu Gu, Boyuan Zheng, <strong>Boyu Gou</strong>, Kai Zhang, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su
+    authors: Yu Gu*, Kai Zhang*, Yuting Ning*, Boyuan Zheng*, <strong>Boyu Gou</strong>, Tianci Xue, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su
     conference_short: arXiv
     pdf: https://arxiv.org/abs/2411.06559
     image: ./assets/paper_figures/wmp.png
