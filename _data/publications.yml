@@ -4,7 +4,7 @@ main:
     authors: Tianci Xue, Weijian Qi, Tianneng Shi, Chan Hee Song, <strong>Boyu Gou</strong>, Dawn Song, Huan Sun, Yu Su
     conference_short: arXiv
     pdf: https://arxiv.org/abs/2504.01382
-    image: ./assets/paper_figures/online_mind2web.jpg
+    image: ./assets/img/online_mind2web.jpg
     code: https://github.com/OSU-NLP-Group/Online-Mind2Web
     twitter: https://x.com/ysu_nlp/status/1904592235728896199
 
