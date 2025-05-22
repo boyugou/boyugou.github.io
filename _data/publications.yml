@@ -10,15 +10,18 @@ main:
 
   - title: "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents"
     authors: Vardaan Pahuja, Yadong Lu, Corby Rosset, <strong>Boyu Gou</strong>, Arindam Mitra, Spencer Whitehead, Yu Su, Ahmed Awadallah
-    conference_short: arXiv
+    conference_short: ACL 2025
     pdf: https://arxiv.org/abs/2502.11357
     image: ./assets/paper_figures/explorer_vardaan.jpg
+    page: https://osu-nlp-group.github.io/Explorer/
+    code: https://github.com/OSU-NLP-Group/Explorer
 
   - title: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents"
     authors: Yu Gu*, Kai Zhang*, Yuting Ning*, Boyuan Zheng*, <strong>Boyu Gou</strong>, Tianci Xue, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su
     conference_short: arXiv
     pdf: https://arxiv.org/abs/2411.06559
     image: ./assets/paper_figures/wmp.png
+    code: https://github.com/OSU-NLP-Group/WebDreamer
     twitter: https://twitter.com/yugu_nlp/status/1859424088927940831
 
   - title: "Tooling or Not Tooling? The Impact of Tools on Language Agents for Chemistry Problem Solving"
