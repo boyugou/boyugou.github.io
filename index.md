@@ -33,7 +33,7 @@ Currently, I'm primarily working on **[autonomous GUI agents](https://github.com
 ## Academic Services
 
 - Reviewer:
-  - Main Conference: ICLR'25, UIST'25, ACL ARR
+  - Main Conference: ICLR'25, UIST'25, ACL Rolling Review
   - Workshop: LLMAgents @ ICLR'24, Computer Use Agents @ ICML'25, Multi-Agent Systems @ ICML'25
 
 ## Education
