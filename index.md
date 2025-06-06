@@ -34,7 +34,7 @@ Currently, I'm primarily working on **[autonomous GUI agents](https://github.com
 
 - Reviewer:
   - Main Conference: ICLR'25, UIST'25, ACL Rolling Review
-  - Workshop: [LLMAgents](https://llmagents.github.io/) @ ICLR'24, [Computer Use Agents](https://www.icml-computeruseagents.com/) @ ICML'25, [Multi-Agent Systems](https://mas-2025.github.io/MAS-2025/) @ ICML'25
+  - Workshop: [LLMAgents](https://llmagents.github.io/) @ ICLR'24, [Computer Use Agents](https://www.icml-computeruseagents.com/) & [Multi-Agent Systems](https://mas-2025.github.io/MAS-2025/) @ ICML'25
 
 ## Education
 
