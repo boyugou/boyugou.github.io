@@ -16,7 +16,6 @@ main:
     image: ./assets/img/online_mind2web.jpg
     code: https://github.com/OSU-NLP-Group/Online-Mind2Web
     twitter: https://x.com/ysu_nlp/status/1904592235728896199
-    selected: true
 
   - title: "Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents"
     authors: Vardaan Pahuja, Yadong Lu, Corby Rosset, <strong>Boyu Gou</strong>, Arindam Mitra, Spencer Whitehead, Yu Su, Ahmed Awadallah
