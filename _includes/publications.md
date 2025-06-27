@@ -63,18 +63,34 @@
 
 <style>
 .publication-toggle-btn {
-  background-color: #007bff;
-  color: white;
-  border: none;
-  padding: 8px 16px;
-  border-radius: 4px;
+  background-color: transparent;
+  color: #000000;
+  border: 1px solid #000000;
+  padding: 0.2rem 0.8rem;
+  border-radius: 0.25rem;
   cursor: pointer;
   font-size: 14px;
-  transition: background-color 0.3s;
+  font-weight: normal;
+  transition: all 0.15s ease;
+  margin-right: 10px;
 }
 
 .publication-toggle-btn:hover {
-  background-color: #0056b3;
+  color: var(--global-theme-color, #002D72);
+  border-color: var(--global-theme-color, #002D72);
+  background-color: transparent;
+}
+
+@media (prefers-color-scheme: dark) {
+  .publication-toggle-btn {
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+  }
+  
+  .publication-toggle-btn:hover {
+    color: rgb(36, 150, 203);
+    border-color: rgb(36, 150, 203);
+  }
 }
 
 .publication-item {
@@ -83,6 +99,12 @@
 
 .publication-item.hidden {
   display: none;
+}
+
+#publicationCount {
+  font-size: 14px;
+  color: var(--global-text-color-light, #828282);
+  font-style: italic;
 }
 </style>
 
