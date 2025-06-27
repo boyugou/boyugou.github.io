@@ -51,7 +51,6 @@
   </div>
 </div>
 </li>
-<br>
 
 {% endfor %}
 
@@ -112,6 +111,10 @@
 
 .publication-item {
   transition: opacity 0.3s ease;
+}
+
+.publication-item:not(:last-child) {
+  margin-bottom: 1.5rem;
 }
 
 .publication-item.hidden {
