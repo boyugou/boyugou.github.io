@@ -1,12 +1,8 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
-
-<!-- 添加切换按钮 -->
-<div style="margin: 20px 0;">
-  <button id="publicationToggle" class="publication-toggle-btn" onclick="togglePublications()">
-    Show Selected Publications
-  </button>
-  <span id="publicationCount" style="margin-left: 10px; color: #666; font-size: 14px;"></span>
-</div>
+<h2 id="publications" style="margin: 2px 0px -15px;">
+  Publications 
+  (<span id="selectedBtn" class="pub-filter-btn active" onclick="showSelected()">Selected</span> / 
+  <span id="fullBtn" class="pub-filter-btn" onclick="showFull()">Full</span>)
+</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -62,34 +58,34 @@
 </div>
 
 <style>
-.publication-toggle-btn {
-  background-color: transparent;
-  color: #000000;
-  border: 1px solid #000000;
-  padding: 0.2rem 0.8rem;
-  border-radius: 0.25rem;
+.pub-filter-btn {
   cursor: pointer;
-  font-size: 14px;
-  font-weight: normal;
   transition: all 0.15s ease;
-  margin-right: 10px;
+  font-weight: normal;
 }
 
-.publication-toggle-btn:hover {
+.pub-filter-btn:not(.active) {
   color: var(--global-theme-color, #002D72);
-  border-color: var(--global-theme-color, #002D72);
-  background-color: transparent;
+  text-decoration: underline;
+}
+
+.pub-filter-btn:not(.active):hover {
+  color: var(--global-hover-color, #ffb81c);
+}
+
+.pub-filter-btn.active {
+  color: var(--global-text-color, #000000);
+  cursor: default;
+  text-decoration: none;
 }
 
 @media (prefers-color-scheme: dark) {
-  .publication-toggle-btn {
-    color: #FFFFFF;
-    border: 1px solid #FFFFFF;
+  .pub-filter-btn:not(.active) {
+    color: rgb(36, 150, 203);
   }
   
-  .publication-toggle-btn:hover {
-    color: rgb(36, 150, 203);
-    border-color: rgb(36, 150, 203);
+  .pub-filter-btn.active {
+    color: #FFFFFF;
   }
 }
 
@@ -100,47 +96,41 @@
 .publication-item.hidden {
   display: none;
 }
-
-#publicationCount {
-  font-size: 14px;
-  color: var(--global-text-color-light, #828282);
-  font-style: italic;
-}
 </style>
 
 <script>
-let showingSelected = false;
-
-function togglePublications() {
-  const button = document.getElementById('publicationToggle');
-  const countSpan = document.getElementById('publicationCount');
-  const selectedPublications = document.querySelectorAll('.selected-publication');
+function showSelected() {
+  const selectedBtn = document.getElementById('selectedBtn');
+  const fullBtn = document.getElementById('fullBtn');
   const nonSelectedPublications = document.querySelectorAll('.non-selected-publication');
   
-  if (showingSelected) {
-    // 切换到显示全部论文
-    nonSelectedPublications.forEach(item => {
-      item.classList.remove('hidden');
-    });
-    button.textContent = 'Show Selected Publications';
-    countSpan.textContent = `(${selectedPublications.length + nonSelectedPublications.length} total)`;
-    showingSelected = false;
-  } else {
-    // 切换到只显示精选论文
-    nonSelectedPublications.forEach(item => {
-      item.classList.add('hidden');
-    });
-    button.textContent = 'Show All Publications';
-    countSpan.textContent = `(${selectedPublications.length} selected)`;
-    showingSelected = true;
-  }
+  // 隐藏非精选论文
+  nonSelectedPublications.forEach(item => {
+    item.classList.add('hidden');
+  });
+  
+  // 更新按钮状态
+  selectedBtn.classList.add('active');
+  fullBtn.classList.remove('active');
 }
 
-// 页面加载完成后初始化计数
-document.addEventListener('DOMContentLoaded', function() {
-  const selectedPublications = document.querySelectorAll('.selected-publication');
+function showFull() {
+  const selectedBtn = document.getElementById('selectedBtn');
+  const fullBtn = document.getElementById('fullBtn');
   const nonSelectedPublications = document.querySelectorAll('.non-selected-publication');
-  const countSpan = document.getElementById('publicationCount');
-  countSpan.textContent = `(${selectedPublications.length + nonSelectedPublications.length} total)`;
+  
+  // 显示所有论文
+  nonSelectedPublications.forEach(item => {
+    item.classList.remove('hidden');
+  });
+  
+  // 更新按钮状态
+  selectedBtn.classList.remove('active');
+  fullBtn.classList.add('active');
+}
+
+// 页面加载完成后默认显示精选论文
+document.addEventListener('DOMContentLoaded', function() {
+  showSelected();
 });
 </script>
