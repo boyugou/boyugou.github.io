@@ -59,7 +59,6 @@
 </div>
 
 <style>
-/* Publication filter styles */
 .publication-filter {
   margin-bottom: 1.5rem;
   border-bottom: 1px solid #e8e8e8;
@@ -92,59 +91,6 @@
   cursor: default;
 }
 
-.publication-item {
-  transition: opacity 0.3s ease;
-}
-
-.publication-item.hidden {
-  display: none;
-}
-
-/* Unified Description List Styles */
-.description-list {
-  margin: 2rem 0;
-}
-
-.description-item {
-  display: flex;
-  flex-wrap: wrap;
-  margin-bottom: 1.2rem;
-  padding-bottom: 1.2rem;
-  border-bottom: 1px solid #f0f0f0;
-}
-
-.description-item:last-child {
-  border-bottom: none;
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-
-.description-term {
-  flex: 0 0 160px;
-  padding-right: 2rem;
-  font-weight: 600;
-  color: var(--global-text-color, #000000);
-  font-size: 0.95rem;
-}
-
-.description-details {
-  flex: 1;
-  line-height: 1.5;
-  color: var(--global-text-color-light, #828282);
-  font-size: 0.95rem;
-}
-
-.description-details strong {
-    font-weight: 600;
-    color: var(--global-text-color, #000000);
-}
-
-.github-badge {
-  height: 20px;
-  vertical-align: middle;
-}
-
-/* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {
   .publication-filter {
     border-bottom-color: #404040;
@@ -162,22 +108,14 @@
     color: rgb(36, 150, 203);
     border-bottom-color: rgb(36, 150, 203);
   }
-
-  .description-item {
-    border-bottom-color: #404040;
-  }
 }
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-  .description-item {
-    flex-direction: column;
-  }
-  .description-term {
-    flex-basis: auto;
-    padding-right: 0;
-    margin-bottom: 0.5rem;
-  }
+.publication-item {
+  transition: opacity 0.3s ease;
+}
+
+.publication-item.hidden {
+  display: none;
 }
 </style>
 
