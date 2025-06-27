@@ -120,21 +120,18 @@
 
 /* News Section Styles */
 .news-container {
-  margin: 1rem 0;
+  margin: 2rem 0;
 }
 
 .news-item {
   display: flex;
   margin-bottom: 0.8rem;
   padding: 0.5rem 0;
-  border-left: 3px solid transparent;
-  padding-left: 0.8rem;
-  transition: all 0.2s ease;
+  border-bottom: 1px solid #f5f5f5;
 }
 
-.news-item:hover {
-  border-left-color: var(--global-theme-color, #002D72);
-  background-color: rgba(0, 45, 114, 0.02);
+.news-item:last-child {
+  border-bottom: none;
 }
 
 .news-date {
@@ -148,85 +145,90 @@
 .news-content {
   flex: 1;
   line-height: 1.4;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
 }
 
 /* Service Section Styles */
 .service-section {
-  margin: 1rem 0;
+  margin: 2rem 0;
 }
 
 .service-category {
-  margin-bottom: 1.2rem;
+  margin-bottom: 1rem;
+  padding: 0.5rem 0;
 }
 
 .service-category h4 {
   color: var(--global-theme-color, #002D72);
-  margin: 0 0 0.4rem 0;
+  margin: 0 0 0.3rem 0;
   font-size: 1rem;
   font-weight: 600;
 }
 
 .service-list {
-  font-size: 0.95rem;
-  line-height: 1.5;
+  font-size: 0.9rem;
+  line-height: 1.4;
   color: var(--global-text-color-light, #828282);
 }
 
 /* Misc Section Styles */
 .misc-section {
-  margin: 1rem 0;
+  margin: 2rem 0;
 }
 
 .misc-item {
-  margin-bottom: 1.5rem;
-  padding: 1rem;
-  border: 1px solid #e8e8e8;
-  border-radius: 6px;
+  margin-bottom: 1rem;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid #f0f0f0;
   transition: all 0.2s ease;
 }
 
+.misc-item:last-child {
+  border-bottom: none;
+}
+
 .misc-item:hover {
-  border-color: var(--global-theme-color, #002D72);
-  box-shadow: 0 2px 8px rgba(0, 45, 114, 0.1);
+  background-color: rgba(0, 45, 114, 0.02);
+  padding-left: 0.5rem;
+  border-radius: 4px;
 }
 
 .misc-item h4 {
-  margin: 0 0 0.5rem 0;
+  margin: 0 0 0.3rem 0;
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  font-size: 1rem;
 }
 
 .misc-item p {
   margin: 0;
-  font-size: 0.95rem;
-  line-height: 1.5;
+  font-size: 0.9rem;
+  line-height: 1.4;
   color: var(--global-text-color-light, #828282);
 }
 
 .github-badge {
-  height: 20px;
+  height: 18px;
   vertical-align: middle;
 }
 
 /* Education Section Styles */
 .education-section {
-  margin: 1rem 0;
+  margin: 2rem 0;
 }
 
 .education-item {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  margin-bottom: 1rem;
-  padding: 0.8rem;
-  border-radius: 6px;
-  transition: all 0.2s ease;
+  margin-bottom: 0.8rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #f5f5f5;
 }
 
-.education-item:hover {
-  background-color: rgba(0, 45, 114, 0.02);
+.education-item:last-child {
+  border-bottom: none;
 }
 
 .degree-info {
@@ -237,6 +239,7 @@
 .degree-info strong {
   color: var(--global-text-color, #000000);
   margin-bottom: 0.2rem;
+  font-size: 1rem;
 }
 
 .institution {
@@ -254,22 +257,24 @@
 
 /* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {
-  .news-item:hover {
-    background-color: rgba(36, 150, 203, 0.05);
-    border-left-color: rgb(36, 150, 203);
-  }
-  
   .misc-item {
-    border-color: #404040;
+    border-bottom-color: #404040;
   }
   
   .misc-item:hover {
-    border-color: rgb(36, 150, 203);
-    box-shadow: 0 2px 8px rgba(36, 150, 203, 0.1);
+    background-color: rgba(36, 150, 203, 0.05);
   }
   
-  .education-item:hover {
-    background-color: rgba(36, 150, 203, 0.05);
+  .education-item {
+    border-bottom-color: #404040;
+  }
+  
+  .course-item {
+    border-bottom-color: #404040;
+  }
+  
+  .news-item {
+    border-bottom-color: #404040;
   }
 }
 
@@ -297,23 +302,23 @@
 
 /* Teaching Section Styles */
 .teaching-section {
-  margin: 1rem 0;
+  margin: 2rem 0;
 }
 
 .teaching-intro {
   margin-bottom: 1rem;
   font-weight: 500;
+  font-size: 1rem;
 }
 
 .course-item {
-  margin-bottom: 1rem;
-  padding: 0.8rem;
-  border-radius: 6px;
-  transition: all 0.2s ease;
+  margin-bottom: 0.8rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #f5f5f5;
 }
 
-.course-item:hover {
-  background-color: rgba(0, 45, 114, 0.02);
+.course-item:last-child {
+  border-bottom: none;
 }
 
 .semester {
@@ -325,12 +330,6 @@
 .instructor {
   font-size: 0.9rem;
   color: var(--global-text-color-light, #828282);
-}
-
-@media (prefers-color-scheme: dark) {
-  .course-item:hover {
-    background-color: rgba(36, 150, 203, 0.05);
-  }
 }
 </style>
 
