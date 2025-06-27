@@ -1,8 +1,9 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">
-  Publications 
-  (<span id="selectedBtn" class="pub-filter-btn active" onclick="showSelected()">Selected</span> / 
-  <span id="fullBtn" class="pub-filter-btn" onclick="showFull()">Full</span>)
-</h2>
+<h2 id="publications" style="margin: 2px 0px 10px;">Publications</h2>
+
+<div class="publication-filter">
+  <span id="selectedBtn" class="filter-tab active" onclick="showSelected()">Selected</span>
+  <span id="fullBtn" class="filter-tab" onclick="showFull()">Full</span>
+</div>
 
 <div class="publications">
 <ol class="bibliography">
@@ -58,34 +59,54 @@
 </div>
 
 <style>
-.pub-filter-btn {
+.publication-filter {
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #e8e8e8;
+  display: flex;
+  gap: 0;
+}
+
+.filter-tab {
+  padding: 8px 16px;
   cursor: pointer;
-  transition: all 0.15s ease;
-  font-weight: normal;
+  font-size: 0.95rem;
+  font-weight: 500;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease;
+  position: relative;
+  top: 1px;
 }
 
-.pub-filter-btn:not(.active) {
+.filter-tab:not(.active) {
+  color: var(--global-text-color-light, #828282);
+}
+
+.filter-tab:not(.active):hover {
   color: var(--global-theme-color, #002D72);
-  text-decoration: underline;
 }
 
-.pub-filter-btn:not(.active):hover {
-  color: var(--global-hover-color, #ffb81c);
-}
-
-.pub-filter-btn.active {
-  color: var(--global-text-color, #000000);
+.filter-tab.active {
+  color: var(--global-theme-color, #002D72);
+  border-bottom-color: var(--global-theme-color, #002D72);
   cursor: default;
-  text-decoration: none;
 }
 
 @media (prefers-color-scheme: dark) {
-  .pub-filter-btn:not(.active) {
+  .publication-filter {
+    border-bottom-color: #404040;
+  }
+  
+  .filter-tab:not(.active) {
+    color: #999999;
+  }
+  
+  .filter-tab:not(.active):hover {
     color: rgb(36, 150, 203);
   }
   
-  .pub-filter-btn.active {
-    color: #FFFFFF;
+  .filter-tab.active {
+    color: rgb(36, 150, 203);
+    border-bottom-color: rgb(36, 150, 203);
   }
 }
 
@@ -100,8 +121,8 @@
 
 <script>
 function showSelected() {
-  const selectedBtn = document.getElementById('selectedBtn');
-  const fullBtn = document.getElementById('fullBtn');
+  const selectedTab = document.getElementById('selectedBtn');
+  const fullTab = document.getElementById('fullBtn');
   const nonSelectedPublications = document.querySelectorAll('.non-selected-publication');
   
   // 隐藏非精选论文
@@ -109,14 +130,14 @@ function showSelected() {
     item.classList.add('hidden');
   });
   
-  // 更新按钮状态
-  selectedBtn.classList.add('active');
-  fullBtn.classList.remove('active');
+  // 更新tab状态
+  selectedTab.classList.add('active');
+  fullTab.classList.remove('active');
 }
 
 function showFull() {
-  const selectedBtn = document.getElementById('selectedBtn');
-  const fullBtn = document.getElementById('fullBtn');
+  const selectedTab = document.getElementById('selectedBtn');
+  const fullTab = document.getElementById('fullBtn');
   const nonSelectedPublications = document.querySelectorAll('.non-selected-publication');
   
   // 显示所有论文
@@ -124,9 +145,9 @@ function showFull() {
     item.classList.remove('hidden');
   });
   
-  // 更新按钮状态
-  selectedBtn.classList.remove('active');
-  fullBtn.classList.add('active');
+  // 更新tab状态
+  selectedTab.classList.remove('active');
+  fullTab.classList.add('active');
 }
 
 // 页面加载完成后默认显示精选论文
