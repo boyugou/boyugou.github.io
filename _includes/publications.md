@@ -117,6 +117,221 @@
 .publication-item.hidden {
   display: none;
 }
+
+/* News Section Styles */
+.news-container {
+  margin: 1rem 0;
+}
+
+.news-item {
+  display: flex;
+  margin-bottom: 0.8rem;
+  padding: 0.5rem 0;
+  border-left: 3px solid transparent;
+  padding-left: 0.8rem;
+  transition: all 0.2s ease;
+}
+
+.news-item:hover {
+  border-left-color: var(--global-theme-color, #002D72);
+  background-color: rgba(0, 45, 114, 0.02);
+}
+
+.news-date {
+  font-weight: 600;
+  color: var(--global-theme-color, #002D72);
+  min-width: 80px;
+  margin-right: 1rem;
+  font-size: 0.9rem;
+}
+
+.news-content {
+  flex: 1;
+  line-height: 1.4;
+  font-size: 0.95rem;
+}
+
+/* Service Section Styles */
+.service-section {
+  margin: 1rem 0;
+}
+
+.service-category {
+  margin-bottom: 1.2rem;
+}
+
+.service-category h4 {
+  color: var(--global-theme-color, #002D72);
+  margin: 0 0 0.4rem 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.service-list {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--global-text-color-light, #828282);
+}
+
+/* Misc Section Styles */
+.misc-section {
+  margin: 1rem 0;
+}
+
+.misc-item {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border: 1px solid #e8e8e8;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.misc-item:hover {
+  border-color: var(--global-theme-color, #002D72);
+  box-shadow: 0 2px 8px rgba(0, 45, 114, 0.1);
+}
+
+.misc-item h4 {
+  margin: 0 0 0.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.misc-item p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--global-text-color-light, #828282);
+}
+
+.github-badge {
+  height: 20px;
+  vertical-align: middle;
+}
+
+/* Education Section Styles */
+.education-section {
+  margin: 1rem 0;
+}
+
+.education-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  padding: 0.8rem;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.education-item:hover {
+  background-color: rgba(0, 45, 114, 0.02);
+}
+
+.degree-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.degree-info strong {
+  color: var(--global-text-color, #000000);
+  margin-bottom: 0.2rem;
+}
+
+.institution {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light, #828282);
+}
+
+.duration {
+  font-size: 0.9rem;
+  color: var(--global-theme-color, #002D72);
+  font-weight: 500;
+  white-space: nowrap;
+  margin-left: 1rem;
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  .news-item:hover {
+    background-color: rgba(36, 150, 203, 0.05);
+    border-left-color: rgb(36, 150, 203);
+  }
+  
+  .misc-item {
+    border-color: #404040;
+  }
+  
+  .misc-item:hover {
+    border-color: rgb(36, 150, 203);
+    box-shadow: 0 2px 8px rgba(36, 150, 203, 0.1);
+  }
+  
+  .education-item:hover {
+    background-color: rgba(36, 150, 203, 0.05);
+  }
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .education-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .duration {
+    margin-left: 0;
+    margin-top: 0.3rem;
+  }
+  
+  .news-item {
+    flex-direction: column;
+  }
+  
+  .news-date {
+    margin-bottom: 0.3rem;
+    margin-right: 0;
+  }
+}
+
+/* Teaching Section Styles */
+.teaching-section {
+  margin: 1rem 0;
+}
+
+.teaching-intro {
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+.course-item {
+  margin-bottom: 1rem;
+  padding: 0.8rem;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.course-item:hover {
+  background-color: rgba(0, 45, 114, 0.02);
+}
+
+.semester {
+  color: var(--global-theme-color, #002D72);
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.instructor {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light, #828282);
+}
+
+@media (prefers-color-scheme: dark) {
+  .course-item:hover {
+    background-color: rgba(36, 150, 203, 0.05);
+  }
+}
 </style>
 
 <script>
