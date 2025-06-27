@@ -1,11 +1,19 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
+<!-- 添加切换按钮 -->
+<div style="margin: 20px 0;">
+  <button id="publicationToggle" class="publication-toggle-btn" onclick="togglePublications()">
+    Show Selected Publications
+  </button>
+  <span id="publicationCount" style="margin-left: 10px; color: #666; font-size: 14px;"></span>
+</div>
+
 <div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
 
-<li>
+<li class="publication-item {% if link.selected %}selected-publication{% else %}non-selected-publication{% endif %}">
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
@@ -52,3 +60,65 @@
 
 </ol>
 </div>
+
+<style>
+.publication-toggle-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.publication-toggle-btn:hover {
+  background-color: #0056b3;
+}
+
+.publication-item {
+  transition: opacity 0.3s ease;
+}
+
+.publication-item.hidden {
+  display: none;
+}
+</style>
+
+<script>
+let showingSelected = false;
+
+function togglePublications() {
+  const button = document.getElementById('publicationToggle');
+  const countSpan = document.getElementById('publicationCount');
+  const selectedPublications = document.querySelectorAll('.selected-publication');
+  const nonSelectedPublications = document.querySelectorAll('.non-selected-publication');
+  
+  if (showingSelected) {
+    // 切换到显示全部论文
+    nonSelectedPublications.forEach(item => {
+      item.classList.remove('hidden');
+    });
+    button.textContent = 'Show Selected Publications';
+    countSpan.textContent = `(${selectedPublications.length + nonSelectedPublications.length} total)`;
+    showingSelected = false;
+  } else {
+    // 切换到只显示精选论文
+    nonSelectedPublications.forEach(item => {
+      item.classList.add('hidden');
+    });
+    button.textContent = 'Show All Publications';
+    countSpan.textContent = `(${selectedPublications.length} selected)`;
+    showingSelected = true;
+  }
+}
+
+// 页面加载完成后初始化计数
+document.addEventListener('DOMContentLoaded', function() {
+  const selectedPublications = document.querySelectorAll('.selected-publication');
+  const nonSelectedPublications = document.querySelectorAll('.non-selected-publication');
+  const countSpan = document.getElementById('publicationCount');
+  countSpan.textContent = `(${selectedPublications.length + nonSelectedPublications.length} total)`;
+});
+</script>
