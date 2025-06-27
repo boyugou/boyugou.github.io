@@ -114,7 +114,7 @@
 }
 
 .publication-item:not(:last-child) {
-  margin-bottom: 1.5rem;
+  margin-bottom: 2.5rem;
 }
 
 .publication-item.hidden {
