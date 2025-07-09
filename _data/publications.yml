@@ -11,7 +11,7 @@ main:
     
   - title: "An Illusion of Progress? Assessing the Current State of Web Agents"
     authors: Tianci Xue, Weijian Qi, Tianneng Shi, Chan Hee Song, <strong>Boyu Gou</strong>, Dawn Song, Huan Sun, Yu Su
-    conference_short: arXiv
+    conference_short: COLM 2025
     pdf: https://arxiv.org/abs/2504.01382
     image: ./assets/img/online_mind2web.jpg
     code: https://github.com/OSU-NLP-Group/Online-Mind2Web
