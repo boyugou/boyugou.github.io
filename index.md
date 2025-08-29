@@ -8,7 +8,7 @@ My research interests lie in **[Language Agents](https://language-agent-tutorial
 
 We built the first multimodal web agent with all code open-sourced ([SeeAct](https://osu-nlp-group.github.io/SeeAct/), [Multimodal-Mind2Web](https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web)). After that, we proposed building purely vision-based GUI agents that can operate as humans do and demonstrated their power despite their minimal design ([UGround](https://osu-nlp-group.github.io/UGround/)). We also built benchmarks to better assess cutting-edge web agents in short- to medium-horizon web navigation tasks ([Online-Mind2Web](https://github.com/OSU-NLP-Group/Online-Mind2Web)) and long-horizon agentic web search tasks ([Mind2Web 2](https://osu-nlp-group.github.io/Mind2Web-2/)), introducing novel LLM-as-a-Judge and rubric-based Agent-as-a-Judge methods.
 
-*If you are interested in a research internship, collaboration, or just a short chat, feel free to email me or reach out on LinkedIn/Twitter to discuss ideas and potential collaborations.*
+*If you are interested in a research internship/collaboration, or just a short chat, feel free to email me or reach out on LinkedIn/Twitter to discuss ideas and potential collaborations.*
 
 ## News
 - **[June 2025]** [Mind2Web 2](https://osu-nlp-group.github.io/Mind2Web-2/) is released! A benchmark designed specifically for agentic search systems (e.g., web agents, Deep Research systems) on realistic, long-horizon, and time-varying tasks.
