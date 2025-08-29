@@ -22,8 +22,7 @@ twitter: https://twitter.com/BoyuGouNLP
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avator.jpg
 favicon: ./assets/img/fav.jpeg
-favicon_dark: ./assets/img/favicon-dark.png
-
+favicon_dark: ./assets/img/fav.jpeg
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: false
