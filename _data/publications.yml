@@ -12,7 +12,7 @@ main:
     authors: Tianci Xue, Weijian Qi, Tianneng Shi, Chan Hee Song, <strong>Boyu Gou</strong>, Dawn Song, Huan Sun, Yu Su
     conference_short: COLM 2025
     pdf: https://arxiv.org/abs/2504.01382
-    image: ./assets/img/online_mind2web.jpg
+#    image: ./assets/img/online_mind2web.jpg
     code: https://github.com/OSU-NLP-Group/Online-Mind2Web
     twitter: https://x.com/ysu_nlp/status/1904592235728896199
 
@@ -21,7 +21,7 @@ main:
     authors: Yu Gu*, Kai Zhang*, Yuting Ning*, Boyuan Zheng*, <strong>Boyu Gou</strong>, Tianci Xue, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su
     conference_short: arXiv
     pdf: https://arxiv.org/abs/2411.06559
-    image: ./assets/paper_figures/wmp.png
+#    image: ./assets/paper_figures/wmp.png
     code: https://github.com/OSU-NLP-Group/WebDreamer
     twitter: https://twitter.com/yugu_nlp/status/1859424088927940831
 
@@ -32,7 +32,7 @@ main:
     pdf: https://arxiv.org/abs/2410.05243
     code: https://github.com/OSU-NLP-Group/UGround
     page: https://osu-nlp-group.github.io/UGround/
-    image: ./assets/paper_figures/uground.png
+#    image: ./assets/paper_figures/uground.png
     twitter: https://x.com/ysu_nlp/status/1844186560901808328
     notes: Oral (1.8%)
 
