@@ -1,6 +1,6 @@
 main:
   - title: "Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge"
-    authors: (Collaboration with Amazon AGI) <strong>Boyu Gou</strong>*, Zanming Huang*, Yuting Ning*, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jiménez Gutiérrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Nour Moussa, Tianshu Zhang, Jian Xie, Yifei Li, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su
+    authors: <strong>Boyu Gou</strong>*, Zanming Huang*, Yuting Ning*, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jiménez Gutiérrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Nour Moussa, Tianshu Zhang, Jian Xie, Yifei Li, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su (Collaboration with Amazon AGI)
     conference_short: arXiv
     pdf: https://arxiv.org/abs/2506.21506
     page: https://osu-nlp-group.github.io/Mind2Web-2/
@@ -19,7 +19,7 @@ main:
 
 
   - title: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents"
-    authors: (Collaboration with Orby AI) Yu Gu*, Kai Zhang*, Yuting Ning*, Boyuan Zheng*, <strong>Boyu Gou</strong>, Tianci Xue, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su
+    authors: Yu Gu*, Kai Zhang*, Yuting Ning*, Boyuan Zheng*, <strong>Boyu Gou</strong>, Tianci Xue, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su (Collaboration with Orby AI)
     conference_short: arXiv
     pdf: https://arxiv.org/abs/2411.06559
 #    image: ./assets/paper_figures/wmp.png
@@ -28,7 +28,7 @@ main:
 
 
   - title: "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents"
-    authors: (Collaboration with Orby AI) <strong>Boyu Gou</strong>, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su
+    authors: <strong>Boyu Gou</strong>, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su(Collaboration with Orby AI)
     conference_short: ICLR 2025
     pdf: https://arxiv.org/abs/2410.05243
     code: https://github.com/OSU-NLP-Group/UGround
