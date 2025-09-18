@@ -28,7 +28,7 @@ main:
 
 
   - title: "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents"
-    authors: <strong>Boyu Gou</strong>, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su(Collaboration with Orby AI)
+    authors: <strong>Boyu Gou</strong>, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su (Collaboration with Orby AI)
     conference_short: ICLR 2025
     pdf: https://arxiv.org/abs/2410.05243
     code: https://github.com/OSU-NLP-Group/UGround
