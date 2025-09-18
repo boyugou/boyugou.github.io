@@ -11,10 +11,10 @@ We built the first multimodal web agent with all code open-sourced ([SeeAct](htt
 *If you are interested in a research internship/collaboration, or just a short chat, feel free to email me or reach out on LinkedIn/Twitter to discuss ideas and potential collaborations.*
 
 ## News
-- **[June 2025]** [Mind2Web 2](https://osu-nlp-group.github.io/Mind2Web-2/) is released! A benchmark designed specifically for agentic search systems (e.g., web agents, Deep Research systems) on realistic, long-horizon, and time-varying tasks.
+- **[June 2025]** [Mind2Web 2](https://osu-nlp-group.github.io/Mind2Web-2/) is released! A benchmark designed specifically for agentic search systems (e.g., web agents, Deep Research systems) on realistic, long-horizon, and time-varying tasks. (Accepted to NeurIPS 2025)
 - **[Feb 2025]** [UGround](https://osu-nlp-group.github.io/UGround/) is accepted to ICLR 2025 as an Oral!
 - **[Aug 2024]** Released [UGround](https://osu-nlp-group.github.io/UGround/), where we propose building entirely vision-only GUI agents under a generic framework SeeAct-V with a new SOTA GUI visual grounding model.
-- **[Jan 2024]** Released [SeeAct](https://twitter.com/ysu_nlp/status/1742398541660639637), a generalist web agent powered by GPT-4V. (Accepted at ICML 2024)
+- **[Jan 2024]** Released [SeeAct](https://twitter.com/ysu_nlp/status/1742398541660639637), a generalist web agent powered by GPT-4V. (Accepted to ICML 2024)
 - **[Aug 2023]** Joined OSU and am honored to work in the OSU NLP Group.
 
 
