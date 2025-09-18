@@ -1,7 +1,7 @@
 main:
   - title: "Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge"
     authors: <strong>Boyu Gou</strong>*, Zanming Huang*, Yuting Ning*, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jiménez Gutiérrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Nour Moussa, Tianshu Zhang, Jian Xie, Yifei Li, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su (Collaboration with Amazon AGI)
-    conference_short: arXiv
+    conference_short: NeurIPS'25 D&B
     pdf: https://arxiv.org/abs/2506.21506
     page: https://osu-nlp-group.github.io/Mind2Web-2/
     code: https://github.com/OSU-NLP-Group/Mind2Web-2
