@@ -20,7 +20,7 @@ main:
 
   - title: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents"
     authors: Yu Gu*, Kai Zhang*, Yuting Ning*, Boyuan Zheng*, <strong>Boyu Gou</strong>, Tianci Xue, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su (Collaboration with Orby AI)
-    conference_short: arXiv
+    conference_short: TMLR
     pdf: https://arxiv.org/abs/2411.06559
     image: ./assets/img/webdreamer.png
     code: https://github.com/OSU-NLP-Group/WebDreamer
