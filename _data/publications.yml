@@ -35,7 +35,7 @@ main:
     page: https://osu-nlp-group.github.io/UGround/
     image: ./assets/img/uground.png
     twitter: https://x.com/ysu_nlp/status/1844186560901808328
-    notes: Oral (1.8%); HF 47K+ Downloads
+    notes: Oral (1.8%); HF 185K+ Downloads
 
   - title: "GPT-4V(ision) is a Generalist Web Agent,if Grounded"
     authors: Boyuan Zheng, <strong>Boyu Gou</strong>, Jihyung Kil, Huan Sun, Yu Su
