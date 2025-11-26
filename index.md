@@ -31,7 +31,7 @@ We built the first multimodal web agent with all code open-sourced ([SeeAct](htt
 
 - Reviewer:
   - Main Conferences: ICLR'25-'26, UIST'25, ACL Rolling Review
-  - Workshops: [LLMAgents](https://llmagents.github.io/) @ ICLR'24, [Computer Use Agents](https://www.icml-computeruseagents.com/) & [Multi-Agent Systems](https://mas-2025.github.io/MAS-2025/) @ ICML'25, [AI Agents](https://sites.google.com/view/aia-workshop) @ COLM'25
+  - Workshops: [LLMAgents](https://llmagents.github.io/) @ ICLR'24, [Computer Use Agents](https://www.icml-computeruseagents.com/) & [Multi-Agent Systems](https://mas-2025.github.io/MAS-2025/) @ ICML'25, [AI Agents](https://sites.google.com/view/aia-workshop) @ COLM'25, [MTI-LLM](https://workshop-multi-turn-interaction.github.io/) @ NeurIPS'25
 
 ## Education
 
@@ -50,7 +50,7 @@ Teaching Assistant at ShanghaiTech University:
 - SI152 Numerical Optimization, Fall 2022  
   - Instructor: [Prof. Hao Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wanghao/)  
   - Theories, algorithms, and convergence analysis of linear and nonlinear optimization.
-- CS110 & CS110P Computer Architecture I & Computer Architecture I Project, Spring 2022  
+- CS110 Computer Architecture, Spring 2022  
   - Instructors: [Prof. Chundong Wang](https://scholar.google.com/citations?user=a-79PFIAAAAJ&hl=en) & [Prof. Sören Schwertfeger](https://scholar.google.de/citations?user=Y2olJ9kAAAAJ&hl=de)  
   - Similar to UC Berkeley CS61C *Great Ideas in Computer Architecture*. The course homepage is [here](https://robotics.shanghaitech.edu.cn/courses/ca/22s/).
 - CLPS1001 Intimacy Psychology, Spring 2023  
