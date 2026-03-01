@@ -30,8 +30,8 @@ We built the first multimodal web agent with all code open-sourced ([SeeAct](htt
 ## Academic Services
 
 - Reviewer:
-  - Main Conferences: ICLR'25-'26, UIST'25, ACL Rolling Review
-  - Workshops: [LLMAgents](https://llmagents.github.io/) @ ICLR'24, [Computer Use Agents](https://www.icml-computeruseagents.com/) & [Multi-Agent Systems](https://mas-2025.github.io/MAS-2025/) @ ICML'25, [AI Agents](https://sites.google.com/view/aia-workshop) @ COLM'25, [MTI-LLM](https://workshop-multi-turn-interaction.github.io/) @ NeurIPS'25
+  - Main Conferences: ICLR'25-'26, UIST'25, ACL Rolling Review, IJCV
+  - Workshops: [LLMAgents](https://llmagents.github.io/) @ ICLR'24, [Computer Use Agents](https://www.icml-computeruseagents.com/) & [Multi-Agent Systems](https://mas-2025.github.io/MAS-2025/) @ ICML'25, [AI Agents](https://sites.google.com/view/aia-workshop) @ COLM'25, [MTI-LLM](https://workshop-multi-turn-interaction.github.io/) @ NeurIPS'25, [RSI](https://recursive-workshop.github.io/) & [LLA (AC)](https://lifelongagent.github.io/) @ ICLR'26
 
 ## Education
 
