@@ -25,12 +25,13 @@ We built the first multimodal web agent with all code open-sourced ([SeeAct](htt
 ## Misc
 - [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): An easy-to-use codebase and Python package designed for autonomous web agents. **You can freely test it with any task on any live website with just one click!** It is also useful for other agent work as a convenient web browsing implementation. <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social" alt="GitHub Stars"></a>
 - [GUI Agent Paper List](https://github.com/boyugou/GUI-Agents-Paper-List): A comprehensive and up-to-date GUI Agent paper list. <a href="https://github.com/boyugou/GUI-Agents-Paper-List"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/boyugou/GUI-Agents-Paper-List"> </a>
+- [Lorvex](https://lorvex.app/): If you want an AI-native experience for to-do and scheduling apps, this personal project is highly recommended to try.
 
 
 ## Academic Services
 
 - Reviewer:
-  - Main Conferences: ICLR'25-'26, UIST'25, ACL Rolling Review, IJCV
+  - Main Conferences/Journals: ICLR'25-'26, UIST'25, ACL Rolling Review, IJCV, PACM IMWUT
   - Workshops: [LLMAgents](https://llmagents.github.io/) @ ICLR'24, [Computer Use Agents](https://www.icml-computeruseagents.com/) & [Multi-Agent Systems](https://mas-2025.github.io/MAS-2025/) @ ICML'25, [AI Agents](https://sites.google.com/view/aia-workshop) @ COLM'25, [MTI-LLM](https://workshop-multi-turn-interaction.github.io/) @ NeurIPS'25, [RSI](https://recursive-workshop.github.io/) & [LLA (AC)](https://lifelongagent.github.io/) @ ICLR'26
 
 ## Education
