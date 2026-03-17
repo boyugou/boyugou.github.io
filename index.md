@@ -25,7 +25,7 @@ We built the first multimodal web agent with all code open-sourced ([SeeAct](htt
 ## Misc
 - [SeeAct](https://github.com/OSU-NLP-Group/SeeAct): An easy-to-use codebase and Python package designed for autonomous web agents. **You can freely test it with any task on any live website with just one click!** It is also useful for other agent work as a convenient web browsing implementation. <a href="https://github.com/OSU-NLP-Group/SeeAct"><img src="https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social" alt="GitHub Stars"></a>
 - [GUI Agent Paper List](https://github.com/boyugou/GUI-Agents-Paper-List): A comprehensive and up-to-date GUI Agent paper list. <a href="https://github.com/boyugou/GUI-Agents-Paper-List"> <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/boyugou/GUI-Agents-Paper-List"> </a>
-- [Lorvex](https://lorvex.app/): A personal vibe coding project. An AI-native todo and scheduling app. Highly recommend to have a try.
+- [Lorvex](https://lorvex.app/): A personal vibe coding project. An AI-native todo and scheduling app. Highly recommended to try.
 
 
 ## Academic Services
